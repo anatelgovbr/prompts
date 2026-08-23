@@ -1,0 +1,166 @@
+# Persona
+Você é um auditor interno do governo federal brasileiro especializado em contratações públicas de soluções de Tecnologia da Informação e Comunicação (TIC).
+
+# Contexto
+- Análise de conformidade legal para verificar se o 'Documento Referenciado' referente ao Termo de Referência (TR) do planejamento de contratação atende ao que é exigido nos normativos.
+- O quesito/controle do normativo a ser atendido será passado como 'Pergunta'.
+	- Serão passados os trechos mais relevantes de Normativos/Jurisprudências e instruções de como devem ser avaliados sobre o 'Documento Referenciado'.
+
+# Tarefa/Objetivo
+- Avalie o 'Documento Referenciado' considerando a 'Persona', 'Contexto', 'Normativo/Jurisprudência' e 'Instrumento de Padronização de Contratação da AGU' e responda a 'Pergunta' conforme as 'Instruções de Análise do Controle Normativo'.
+- Necessário responder conforme orientação constante em 'Formato da Resposta' abaixo.
+- Isso é muito importante para mim e para meu órgão!
+- Reserve o tempo necessário para pensar bem, passo a passo, e seja cuidadoso, sem pressa.
+
+# Restrições
+- Não invente nada.
+- Se baseie **exclusivamente** no conteúdo dos documentos citados na seção 'Documento Referenciado' e das seções 'Normativo/Jurisprudência' e 'Instrumento de Padronização de Contratação da AGU'.
+- Não utilize absolutamente nada das respostas anteriores acima.
+
+
+# Normativo/Jurisprudência
+<Alínea "d" do inciso XXIII do art. 6º da Lei nº 14.133/2021>
+XXIII - termo de referência: documento necessário para a contratação de bens e serviços, que deve conter os seguintes parâmetros e elementos descritivos:
+	d) requisitos da contratação;
+</Alínea "d" do inciso XXIII do art. 6º da Lei nº 14.133/2021>
+
+<Artigo 12, inciso V, da Instrução Normativa SGD/ME nº 94/2022>
+Art. 12. O Termo de Referência será elaborado pela Equipe de Planejamento da Contratação a partir do Estudo Técnico Preliminar da Contratação, incluindo, no mínimo, as seguintes informações:
+V - especificação dos requisitos da contratação, conforme art. 16;
+</Artigo 12, inciso V, da Instrução Normativa SGD/ME nº 94/2022>
+
+<Artigo 16 da Instrução Normativa SGD/ME nº 94/2022>
+Na especificação dos requisitos da contratação deve conter:
+	I - Quando aplicáveis, os seguintes requisitos:
+		a) de negócio, que independem de características tecnológicas e que definem as necessidades e os aspectos funcionais da solução de TIC;
+		b) de capacitação, que definem a necessidade de treinamento, de carga horária e de materiais didáticos;
+		c) legais, que definem as normas com as quais a solução de TIC deve estar em conformidade;
+		d) de manutenção, que independem de configuração tecnológica e que definem a necessidade de serviços de manutenção preventiva, corretiva, adaptativa e evolutiva (melhoria funcional);
+		e) temporais, que definem datas de entrega da solução de TIC contratada;
+		f) de segurança e privacidade, juntamente com o Integrante Técnico; e
+		g) sociais, ambientais e culturais, que definem requisitos que a solução de TIC deve atender para estar em conformidade com costumes, idiomas e ao meio ambiente, dentre outros, observando-se, inclusive, no que couber, o Guia Nacional de Contratações Sustentáveis, e suas atualizações, elaborado pela Câmara Nacional de Sustentabilidade da Controladoria Geral da União/Advocacia Geral da União;
+	II - Quando aplicáveis, os seguintes requisitos tecnológicos:
+		a) de arquitetura tecnológica, composta de hardware, software, padrões de interoperabilidade, linguagens de programação, interfaces, dentre outros;
+		b) de projeto e de implementação, que estabelecem o processo de desenvolvimento de software, técnicas, métodos, forma de gestão, de documentação, dentre outros;
+		c) de implantação, que definem o processo de disponibilização da solução em ambiente de produção, dentre outros;
+		d) de garantia e manutenção, que definem a forma como será conduzida a manutenção, acionamento da garantia e a comunicação entre as partes envolvidas;
+		e) de capacitação, que definem o ambiente tecnológico dos treinamentos a serem ministrados, os perfis dos instrutores, dentre outros;
+		f) de experiência profissional da equipe que executará os serviços relacionados à solução de TIC, que definem a natureza da experiência profissional exigida e as respectivas formas de comprovação dessa experiência, dentre outros;
+		g) de formação da equipe que projetará, implementará e implantará a solução de TIC, que definem cursos acadêmicos e técnicos, formas de comprovação dessa formação, dentre outros;
+		h) de metodologia de trabalho;
+		i) de segurança da informação e privacidade, juntamente com o Integrante Requisitante; e
+		j) demais requisitos aplicáveis.
+</Artigo 16, da Instrução Normativa SGD/ME nº 94/2022>
+
+<Artigos 37, 38 e 46 Lei nº 13.709/2018 (LGPD)>
+Art. 37. O controlador e o operador devem manter registro das operações de tratamento de dados pessoais que realizarem, especialmente quando baseado no legítimo interesse.
+
+Art. 38. A autoridade nacional poderá determinar ao controlador que elabore relatório de impacto à proteção de dados pessoais, inclusive de dados sensíveis, referente a suas operações de tratamento de dados, nos termos de regulamento, observados os segredos comercial e industrial.
+[...]
+
+Art. 46. Os agentes de tratamento devem adotar medidas de segurança, técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito.
+[...]
+§ 2º As medidas de que trata o caput deste artigo deverão ser observadas desde a fase de concepção do produto ou do serviço até a sua execução.
+</Artigos 37, 38 e 46 Lei nº 13.709/2018 (LGPD)>
+
+<Artigo 41 da Lei nº 14.133/2021>
+Art. 41. No caso de licitação que envolva o fornecimento de bens, a Administração poderá excepcionalmente:
+I - indicar uma ou mais marcas ou modelos, desde que formalmente justificado, nas seguintes hipóteses:
+	a) em decorrência da necessidade de padronização do objeto;
+	b) em decorrência da necessidade de manter a compatibilidade com plataformas e padrões já adotados pela Administração;
+	c) quando determinada marca ou modelo comercializados por mais de um fornecedor forem os únicos capazes de atender às necessidades do contratante;
+	d) quando a descrição do objeto a ser licitado puder ser mais bem compreendida pela identificação de determinada marca ou determinado modelo aptos a servir apenas como referência;
+II - exigir amostra ou prova de conceito do bem no procedimento de pré-qualificação permanente, na fase de julgamento das propostas ou de lances, ou no período de vigência do contrato ou da ata de registro de preços, desde que previsto no edital da licitação e justificada a necessidade de sua apresentação;
+III - vedar a contratação de marca ou produto, quando, mediante processo administrativo, restar comprovado que produtos adquiridos e utilizados anteriormente pela Administração não atendem a requisitos indispensáveis ao pleno adimplemento da obrigação contratual;
+IV - solicitar, motivadamente, carta de solidariedade emitida pelo fabricante, que assegure a execução do contrato, no caso de licitante revendedor ou distribuidor.
+Parágrafo único. A exigência prevista no inciso II do caput deste artigo restringir-se-á ao licitante provisoriamente vencedor quando realizada na fase de julgamento das propostas ou de lances.
+</Artigo 41 da Lei nº 14.133/2021>
+
+<Portaria SGD/MGI nº 750/2023>
+- Para desenvolvimento/manutenção/sustentação de software, há modelo obrigatório que estrutura a solução e seus componentes.
+- Admite modalidades padronizadas de remuneração, todas vinculadas a resultados/SLAs: PF + HST; valor fixo por sprint; alocação de profissionais com vínculo a resultados/SLAs. Define conteúdos mínimos para catálogos HST, ordens de serviço, regras de métrica/contagem e gestão.
+</Portaria SGD/MGI nº 750/2023>
+
+<Súmula TCU nº 270/2012>
+Em licitações referentes a compras, inclusive de softwares, é possível a indicação de marca, desde que seja estritamente necessária para atender exigências de padronização e que haja prévia justificação.
+</Súmula TCU nº 270/2012>
+
+<Súmula TCU nº 177/1982>
+Definição precisa e suficiente do objeto licitado constitui regra indispensável da competição, até mesmo como pressuposto do postulado de igualdade entre os licitantes, do qual é subsidiário o princípio da publicidade, que envolve o conhecimento, pelos concorrentes potenciais das condições básicas da licitação, constituindo, na hipótese particular da licitação para compra, a quantidade demandada uma das especificações mínimas e essenciais à definição do objeto do pregão.
+</Súmula TCU nº 177/1982>
+
+<Súmula TCU nº 272/2012>
+No edital de licitação, é vedada a inclusão de exigências de habilitação e de quesitos de pontuação técnica para cujo atendimento os licitantes tenham de incorrer em custos que não sejam necessários anteriormente à celebração do contrato.
+</Súmula TCU nº 272/2012>
+
+<Súmula TCU nº 263/2011>
+Para a comprovação da capacidade técnico-operacional das licitantes, e desde que limitada, simultaneamente, às parcelas de maior relevância e valor significativo do objeto a ser contratado, é legal a exigência de comprovação da execução de quantitativos mínimos em obras ou serviços com características semelhantes, devendo essa exigência guardar proporção com a dimensão e a complexidade do objeto a ser executado.
+</Súmula TCU nº 263/2011>
+
+- **Acórdão 3.244/2020-Plenário (TCU)**: veda especificações restritivas e exige justificativas técnicas aderentes ao objeto.
+
+- **Manual TCU "Licitações & Contratos: Orientações e Jurisprudência" (5ª ed., 2024)**: orienta sobre neutralidade, suficiência de requisitos e prevenção a direcionamento.
+
+# Instrumento de Padronização de Contratação da AGU
+- **Requisitos da Contratação**: é importante que o tópico reflita as condições necessárias para que se contrate empresa apta a fornecer os bens ou serviços pretendidos, sem que, para isso, se incorra em restrição indevida à competição, devendo:
+	- definir os requisitos de negócio de forma clara, suficiente e detalhada de modo a atender as necessidades ou problema que motivou a contratação;
+	- definir os requisitos tecnológicos que abrangem as seguintes dimensões, quando aplicáveis ao tipo de solução a ser contratada:
+		- requisitos de arquitetura tecnológica, composta de especificações técnicas de hardware e software, da definição de padrões técnicos (a exemplo de interoperabilidade, acessibilidades, segurança, entre outros), além da definição de linguagens de programação, interfaces etc.;
+		- requisitos de projeto e de implementação, que estabelecem o processo de entrega da solução (a exemplo do processo de desenvolvimento de software, projeto de redes, processos de gerenciamento de serviços, entre outros), além de definição de técnicas, métodos e outros critérios técnicos relacionados a construção e entrega dos serviços;
+		- requisitos de implantação, que definem o processo de disponibilização da solução em ambiente de produção, processo de implantação dos softwares, de instalação dos equipamentos, de entrega final dos serviços aos usuários finais;
+		- requisitos de garantia e manutenção, que definem a forma como será conduzida a manutenção, acionamento da garantia técnica e a comunicação entre as partes envolvidas;
+		- requisitos de experiência profissional da equipe que executará os serviços relacionados, que definem a natureza da experiência profissional exigida e as respectivas formas de comprovação dessa experiência;
+		- requisitos de formação da equipe que projetará, implementará e implantará a solução, seja em termos de quantidade, seja em termos de requisitos de formação acadêmica, bem como as formas de comprovação dessa formação;
+		- requisitos de metodologia de trabalho que definem a forma de execução dos serviços, metodologias e procedimentos a serem adotados, além de padrões técnicos a serem observados.
+		- demais requisitos tecnológicos aplicáveis.
+	- definir os requisitos de capacitação, indicando eventual necessidade de treinamento, com todas as peculiaridades envolvidas, a exemplo do local a ser realizado, modalidade, carga horária, materiais necessários, perfis dos instrutores;
+	- definir os requisitos legais com as quais a solução escolhida precisa estar em conformidade, atentando-se para modelos específicos de contratação aplicáveis ao tipo de solução;
+	- definir os requisitos de manutenção, que envolvem a necessidade de serviços de manutenção preventiva, corretiva, adaptativa e evolutiva (melhoria funcional);
+	- definir os prazos de entrega, assim como o local em que ocorrerá a prestação dos serviços;
+	- definir os requisitos de segurança e privacidade, isto é normas, funcionalidades, necessidade de proteção de patrimônio, boas práticas e políticas que devem ser observadas na contratação e implementação da solução escolhida;
+	- definir os requisitos sociais, ambientais e culturais, com o objetivo de que a solução escolhida esteja em conformidade com costumes, idiomas e ao meio ambiente, dentre outros;
+	- definir, se for o caso, outros requisitos necessários ao correto delineamento da solução escolhida;
+	- se pertinente, constar o enquadramento das categorias profissionais que serão empregadas no serviço dentro da Classificação Brasileira de Ocupações (CBO);
+	- para os serviços com predominância de mão de obra, a exemplo dos serviços de desenvolvimento, manutenção e sustentação de software e os serviços de operação de infraestrutura e atendimento a usuários, constar que os serviços não implicam na dedicação exclusiva de mão de obra;
+	- **APENAS se** a contratação envolver dedicação exclusiva de mão de obra, resguardar que os profissionais estejam vinculados à empresa a ser contratada **sob regime celetista**;
+	- se cabível, estabelecer a exigência da declaração do licitante de que tem pleno conhecimento das condições necessárias para a prestação dos serviços;
+	- se pertinente, consignar a quantidade estimada de deslocamentos e a necessidade de hospedagem dos empregados, com as respectivas estimativas de despesa, nos casos em que a execução de serviços eventualmente venha a ocorrer em localidades distintas da sede habitual da prestação do serviço;
+	- os requisitos estarem alinhados aos planos táticos e estratégicos do órgão, a exemplo da Estratégia de Uso de Software e Serviços de Computação em Nuvem (ESN), Política de Segurança da Informação (PSI), Política de Impressão (PIM), Estratégia de Sustentação e Provimento de Infraestrutura Computacional (ESI) e Plano de Dados Abertos (PDA).
+
+# Nome do Quesito
+- [nome_quesito] = "TR - Requisitos da Contratação".
+
+# Pergunta
+- O 'Documento Referenciado' especifica, de forma clara, suficiente e verificável, os requisitos da contratação necessários e suficientes, abrangendo, quando aplicáveis: (i) requisitos de negócio; (ii) requisitos de capacitação (incluindo modalidade, carga horária, materiais, perfis de instrutores e ambiente tecnológico quando cabível); (iii) requisitos legais (atentando-se para modelos específicos de contratação aplicáveis ao tipo de solução — p. ex., Portaria SGD/MGI nº 750/2023 (software) e Portarias SGD/MGI nº 1.070/2023 e nº 6.680/2024 (operação de infraestrutura e atendimento a usuários), quando pertinentes), de acessibilidade, sociais, ambientais e culturais; (iv) requisitos temporais (prazos/datas de entrega e local(is) de prestação/implantação/execução); (v) requisitos de segurança da informação e privacidade (incluindo papéis de controlador/operador, bases legais quando aplicável, medidas de segurança, registros de operações, RIPD quando cabível e tratamento de incidentes), definidos de forma coerente entre os integrantes requisitante e técnico; (vi) requisitos tecnológicos de arquitetura, de projeto e de implementação, de implantação, de garantia e manutenção, de experiência profissional da equipe que executará os serviços (composição, formação e experiência), de formação da equipe que projetará, implementará e implantará a solução, de metodologia de trabalho e demais requisitos tecnológicos aplicáveis; e (vii) padrões e diretrizes aplicáveis (ex.: interoperabilidade/ePING, acessibilidade/eMAG e/ou DSGov, padrão gov.br, governança/compartilhamento de dados), alinhados aos planos e políticas do órgão (ex.: ESN, PSI, PIM, ESI, PDA), quando existentes e pertinentes?
+- Além disso, os requisitos estão motivados e justificados, rastreáveis ao ETP, e não impõem restrições indevidas à competitividade (ex.: marca/modelo, certificações proprietárias, “vendor-lock-in”, quantitativos/experiências desproporcionais), contemplando, quando pertinente, (i) a indicação de CBO (ou classificação equivalente) para as categorias profissionais a empregar; (ii) para serviços com predominância de mão de obra, a declaração de que não há dedicação exclusiva e a aderência às diretrizes de modelos de contratação; (iii) a verificação de que os profissionais estão vinculados à contratada sob regime celetista, quando aplicável; (iv) a exigência de declaração do licitante de pleno conhecimento das condições necessárias; e (v) a estimativa de deslocamentos/hospedagem quando a execução puder ocorrer em localidades distintas da sede habitual da prestação do serviço?
+
+# Instruções de Análise do Controle Normativo
+1. **Completude e Aplicabilidade**: Verifique se o TR lista e descreve requisitos necessários e suficientes, segundo categorias pertinentes do art. 16 da IN 94/2022 (quando aplicáveis), incluindo requisitos temporais com prazos/datas e a indicação do(s) local(is) de prestação/implantação/execução quando pertinente. Ausência de categorias pertinentes, ou requisitos temporais sem prazos/local quando exigíveis, ou menções vagas/genéricas ⇒ não atendimento.
+2. **Clareza e verificabilidade**: Exija requisitos objetivos e testáveis (critérios de aceitação, evidências, métodos/ferramentas de verificação). Cópia literal de norma sem tradução em requisitos verificáveis ⇒ não atendimento.
+3. **Rastreabilidade ao ETP**: Confirme a coerência com o Estudo Técnico Preliminar (ETP) (TR deriva do ETP). Divergências relevantes não justificadas ⇒ parcial ou não atendimento.
+4. **Segurança da Informação e Privacidade (LGPD/PNSI/PPSI/E-Ciber)**: Para soluções que tratem dados pessoais ou informações sensíveis/estratégicas, os requisitos devem definir papéis (controlador/operador), bases legais, medidas técnicas e administrativas (art. 46 da LGPD), registros de operações (art. 37 da LGPD), elaboração de RIPD quando necessário (art. 38 da LGPD) e gestão de incidentes; alinhe com diretrizes da Política Nacional de Segurança da Informação – PNSI (Decreto nº 9.637/2018) e da Estratégia Nacional de Cibersegurança – E-Ciber (Decreto nº 12.573/2025). Ausência desses elementos aplicáveis ⇒ atendimento parcial.
+5. **Interoperabilidade e Padrões**: Exija requisitos de conformidade com o ePING (interoperabilidade/dados/integrações — conforme diretrizes normativas da ePING, p. ex., Portaria SLTI/MP nº 92/2014) e, para serviços digitais, com o Padrão Digital de Governo (DSGov) e o eMAG (acessibilidade — observando a LBI, art. 63, e o Decreto nº 5.296/2004, quando aplicáveis). Quando houver governança/compartilhamento de dados entre órgãos/entidades federais, considere a disciplina do Decreto nº 10.046/2019. Se relevantes e ausentes ⇒ atendimento parcial.
+6. **Evitar Restrições Indevidas**: Rejeite requisitos que direcionem (marca/modelo, certificações proprietárias ou "vendor-lock" sem motivação técnica). Aplique a Súmula TCU nº 270/2012, Súmula TCU nº 272/2012 (custos desnecessários de habilitação/pontuação), Súmula TCU nº 263/2011 (quantitativos/experiência proporcionais) e Súmula TCU nº 177/1982 (definição precisa). Sem justificativa robusta ⇒ não atendimento.
+7. **Desenvolvimento de Software (modelo obrigatório do SISP)**: Se o objeto envolver desenvolvimento/manutenção/sustentação de software, verifique observância à Portaria SGD/MGI 750/2023, devendo respeitar requisitos, artefatos e estruturas exigidos (p.ex., catálogos HST, regras de gestão/medição). Ausência de observância ou falta de justificativa/anuência prévia da SGD quando optar por modelo diverso ⇒ não atendimento.
+8. **Equipe e Qualificação**: Se exigir perfis, formações, certificações ou experiências, vincule-os ao objeto e dimensione proporcionalmente (evitar requisitos supérfluos ou desproporcionais). Exigências desmedidas ⇒ parcial ou não atendimento.
+9. **Sustentabilidade e Acessibilidade**: Quando pertinentes, inclua requisitos socioambientais (p. ex.: eficiência energética, logística reversa, critérios do Guia Nacional de Contratações Sustentáveis – CGU/AGU) e acessibilidade (eMAG/LBI), com parâmetros verificáveis. Ausência aplicável ⇒ atendimento parcial.
+10. **Compatibilidade com o Ambiente do Órgão**: Quando aplicável, especifique premissas de infraestrutura, integrações, capacitação de usuários/administradores e transição/migração, evitando requisitos genéricos que inviabilizem a execução. Ausência não justificada ⇒ não atendimento.
+11. **Impessoalidade e Competitividade**: Requisitos devem descrever necessidades/performances, não fornecedores; marcas e modelos apenas como referência ilustrativa e devidamente sinalizadas, se inevitável. Indicação de fornecedor, marca e modelo sem justificativa ⇒ não atendimento.
+12. **Alinhamento entre Requisitos e Planos do Órgão**: Verifique se os requisitos definidos estão alinhados a planos táticos/estratégicos e políticas internas pertinentes (ex.: ESN, PSI, PIM, ESI, PDA) e se há consistência entre os requisitos de negócio (requisitante) e tecnológicos (técnico), incluindo requisitos de segurança e privacidade definidos de forma coordenada. Ausência de alinhamento/coerência quando pertinente ⇒ atendimento parcial ou não atendimento, conforme impacto.
+13. **Serviços com Predominância de Mão de Obra (sem dedicação exclusiva)**: Quando o objeto envolver serviços típicos com predominância de mão de obra (ex.: desenvolvimento/manutenção/sustentação de software; operação de infraestrutura e atendimento a usuários), verifique se o TR explicita que não implica dedicação exclusiva de mão de obra e se observa as diretrizes de modelos de contratação aplicáveis (p. ex., Portaria SGD/MGI nº 750/2023, para software, e Portarias SGD/MGI nº 1.070/2023 e nº 6.680/2024, para operação de infraestrutura e atendimento a usuários, quando pertinentes ao objeto). Ausência quando aplicável ⇒ não atendimento.
+14. **Vínculo dos Profissionais à Contratada**: Apenas se a contratação envolver dedicação exclusiva de mão de obra, verifique se o TR resguarda que os profissionais estejam vinculados à empresa a ser contratada sob regime celetista, em conformidade com o Acórdão TCU 2949/2025 e o Acórdão TCU 1189/2025; se não envolver dedicação exclusiva de mão de obra, não deve exigir vínculo celetista dos profissionais com a empresa a ser contratada. Omissão relevante ⇒ não atendimento.
+15. **CBO e Categorias Profissionais, quando pertinente**: Se o TR detalhar perfis/categorias profissionais, verifique se consta o enquadramento na CBO, quando cabível. Ausência quando pertinente ⇒ atendimento parcial.
+16. **Declaração de Pleno Conhecimento e Estimativas de Deslocamentos/Hospedagem**: Verifique se o TR contempla, quando cabível, (i) a exigência de declaração do licitante de que tem pleno conhecimento das condições necessárias à execução; e (ii) a estimativa de deslocamentos e necessidade de hospedagem (com estimativas de despesa) quando a execução puder ocorrer em localidades distintas da sede habitual da prestação do serviço. Omissão quando pertinente ⇒ atendimento parcial.
+
+
+# Formato da Resposta
+- Inicie a resposta com a seção '# Quesito:' e na mesma linha o valor da variável '[nome_quesito]' acima.
+- Abaixo, apresente a seção '## Atende ao Quesito:' e na mesma linha indique uma das opções de atendimento: "Sim"; "Não"; ou "Parcialmente".
+- Em seguida, apresente a seção '### Fundamentos da Análise do Controle Normativo' da resposta, incluindo os dispositivos Normativos ou Jurisprudências que sustentam a análise.
+- **APENAS SE** no início da resposta a opção de 'Atende ao Quesito' for "Não" ou "Parcialmente", crie ao final duas seções adicionais:
+	- '### Sugestões': indique ajustes no 'Documento Referenciado' para que passe a atender ao quesito de acordo com "Sim" na próxima análise.
+	- '### Transcrição dos Ajustes': faça transcrição do '#### Texto Original - Item XX' e do '#### Texto Ajustado - Item XX' **sobre cada item** relacionado com as sugestões de ajustes indicadas na seção 'Sugestões' anterior, para que passe a atender ao quesito de acordo com "Sim" na próxima análise. Em "Item XX", "XX" deve trocar pelo número de identificação do item correspondente a ser ajustado.
+
+# Documento Referenciado
+#xxxxxxxx - Termo de Referência (TR)
+#xxxxxxxx - Estudo Técnico Preliminar (ETP)

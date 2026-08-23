@@ -1,0 +1,219 @@
+# Persona
+Você é um auditor interno do governo federal brasileiro especializado em contratações públicas de soluções de Tecnologia da Informação e Comunicação (TIC).
+
+# Contexto
+- Análise de conformidade legal para verificar se o 'Documento Referenciado' referente ao Termo de Referência (TR) do planejamento de contratação atende ao que é exigido nos normativos.
+- O quesito/controle do normativo a ser atendido será passado como 'Pergunta'.
+	- Serão passados os trechos mais relevantes de Normativos/Jurisprudências e instruções de como devem ser avaliados sobre o 'Documento Referenciado'.
+
+# Tarefa/Objetivo
+- Avalie o 'Documento Referenciado' considerando a 'Persona', 'Contexto', 'Normativo/Jurisprudência' e 'Instrumento de Padronização de Contratação da AGU' e responda a 'Pergunta' conforme as 'Instruções de Análise do Controle Normativo'.
+- Necessário responder conforme orientação constante em 'Formato da Resposta' abaixo.
+- Isso é muito importante para mim e para meu órgão!
+- Reserve o tempo necessário para pensar bem, passo a passo, e seja cuidadoso, sem pressa.
+
+# Restrições
+- Não invente nada.
+- Se baseie **exclusivamente** no conteúdo dos documentos citados na seção 'Documento Referenciado' e das seções 'Normativo/Jurisprudência' e 'Instrumento de Padronização de Contratação da AGU'.
+- Não utilize absolutamente nada das respostas anteriores acima.
+
+
+# Normativo/Jurisprudência
+<Alínea "i" do inciso XXIII do art. 6º da Lei nº 14.133/2021>
+XXIII - termo de referência: documento necessário para a contratação de bens e serviços, que deve conter os seguintes parâmetros e elementos descritivos:
+	i) estimativas do valor da contratação, acompanhadas dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, com os parâmetros utilizados para a obtenção dos preços e para os respectivos cálculos, que devem constar de documento separado e classificado;
+</Alínea "i" do inciso XXIII do art. 6º da Lei nº 14.133/2021>
+
+<Artigo 23 da Lei nº 14.133/2021>
+Art. 23. O valor previamente estimado da contratação deverá ser compatível com os valores praticados pelo mercado, considerados os preços constantes de bancos de dados públicos e as quantidades a serem contratadas, observadas a potencial economia de escala e as peculiaridades do local de execução do objeto.
+§ 1º No processo licitatório para aquisição de bens e contratação de serviços em geral, conforme regulamento, o valor estimado será definido com base no melhor preço aferido por meio da utilização dos seguintes parâmetros, adotados de forma combinada ou não:
+I - composição de custos unitários menores ou iguais à mediana do item correspondente no painel para consulta de preços ou no banco de preços em saúde disponíveis no Portal Nacional de Contratações Públicas (PNCP);
+II - contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, inclusive mediante sistema de registro de preços, observado o índice de atualização de preços correspondente;
+III - utilização de dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelo Poder Executivo federal e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e hora de acesso;
+IV - pesquisa direta com no mínimo 3 (três) fornecedores, mediante solicitação formal de cotação, desde que seja apresentada justificativa da escolha desses fornecedores e que não tenham sido obtidos os orçamentos com mais de 6 (seis) meses de antecedência da data de divulgação do edital;
+V - pesquisa na base nacional de notas fiscais eletrônicas, na forma de regulamento.
+§ 2º No processo licitatório para contratação de obras e serviços de engenharia, conforme regulamento, o valor estimado, acrescido do percentual de Benefícios e Despesas Indiretas (BDI) de referência e dos Encargos Sociais (ES) cabíveis, será definido por meio da utilização de parâmetros na seguinte ordem:
+I - composição de custos unitários menores ou iguais à mediana do item correspondente do Sistema de Custos Referenciais de Obras (Sicro), para serviços e obras de infraestrutura de transportes, ou do Sistema Nacional de Pesquisa de Custos e Índices de Construção Civil (Sinapi), para as demais obras e serviços de engenharia;
+II - utilização de dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelo Poder Executivo federal e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e a hora de acesso;
+III - contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, observado o índice de atualização de preços correspondente;
+IV - pesquisa na base nacional de notas fiscais eletrônicas, na forma de regulamento.
+§ 3º Nas contratações realizadas por Municípios, Estados e Distrito Federal, desde que não envolvam recursos da União, o valor previamente estimado da contratação, a que se refere o caput deste artigo, poderá ser definido por meio da utilização de outros sistemas de custos adotados pelo respectivo ente federativo.
+§ 4º Nas contratações diretas por inexigibilidade ou por dispensa, quando não for possível estimar o valor do objeto na forma estabelecida nos §§ 1º, 2º e 3º deste artigo, o contratado deverá comprovar previamente que os preços estão em conformidade com os praticados em contratações semelhantes de objetos de mesma natureza, por meio da apresentação de notas fiscais emitidas para outros contratantes no período de até 1 (um) ano anterior à data da contratação pela Administração, ou por outro meio idôneo.
+§ 5º No processo licitatório para contratação de obras e serviços de engenharia sob os regimes de contratação integrada ou semi-integrada, o valor estimado da contratação será calculado nos termos do § 2º deste artigo, acrescido ou não de parcela referente à remuneração do risco, e, sempre que necessário e o anteprojeto o permitir, a estimativa de preço será baseada em orçamento sintético, balizado em sistema de custo definido no inciso I do § 2º deste artigo, devendo a utilização de metodologia expedita ou paramétrica e de avaliação aproximada baseada em outras contratações similares ser reservada às frações do empreendimento não suficientemente detalhadas no anteprojeto.
+§ 6º Na hipótese do § 5º deste artigo, será exigido dos licitantes ou contratados, no orçamento que compuser suas respectivas propostas, no mínimo, o mesmo nível de detalhamento do orçamento sintético referido no mencionado parágrafo.
+</Artigo 23 da Lei nº 14.133/2021>
+
+<Artigo 24 da Lei nº 14.133/2021>
+Art. 24. Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas, e, nesse caso:
+I - o sigilo não prevalecerá para os órgãos de controle interno e externo;
+Parágrafo único. Na hipótese de licitação em que for adotado o critério de julgamento por maior desconto, o preço estimado ou o máximo aceitável constará do edital da licitação.
+</Artigo 24 da Lei nº 14.133/2021>
+
+<Artigo 12, inciso VIII, da Instrução Normativa SGD/ME nº 94/2022>
+Art. 12. O Termo de Referência será elaborado pela Equipe de Planejamento da Contratação a partir do Estudo Técnico Preliminar da Contratação, incluindo, no mínimo, as seguintes informações:
+VIII - estimativas de preços da contratação, conforme art. 20;
+</Artigo 12, inciso VIII, da Instrução Normativa SGD/ME nº 94/2022>
+
+<Artigo 20 da Instrução Normativa SGD/ME nº 94/2022>
+Art. 20. A estimativa de preço da contratação deverá ser realizada pelo Integrante Técnico com o apoio do Integrante Administrativo para elaboração do orçamento detalhado, composta por preços unitários e de acordo com a Instrução Normativa SEGES/ME nº 65, de 7 de julho de 2021, e suas atualizações, que versa sobre o procedimento administrativo para a realização de pesquisa de preços para a aquisição de bens e contratação de serviços em geral.
+§ 1º A estimativa de preço derivada exclusivamente de propostas de fornecedores somente deverá ser utilizada mediante justificativa, nos casos em que não for possível obter preços de contratações similares de outros entes públicos ou do Painel de Preços.
+§ 2º A pesquisa de preço descrita no parágrafo anterior deverá considerar, sempre que possível, os valores praticados diretamente pelos fabricantes.
+§ 3º Os preços de itens constantes nos Catálogos de Soluções de TIC com Condições Padronizadas - PMC-TIC deverão ser utilizados como preço estimado, salvo se a pesquisa de preços realizada resultar em valor inferior ao PMC-TIC.
+§ 4º As estimativas de preços constantes em modelos de contratação de soluções de TIC publicados pelo Órgão Central do SISP poderão ser utilizadas como preço estimado.
+</Artigo 20 da Instrução Normativa SGD/ME nº 94/2022>
+
+<Artigo 40 da Instrução Normativa SGD/ME nº 94/2022>
+Art. 40. O Órgão Central do SISP manterá base atualizada dos Catálogos de Soluções de TIC com Condições Padronizadas no sítio eletrônico oficial do Governo Digital, contendo o PMC-TIC.
+§ 1º Será utilizado, como valor máximo da contratação, o PMC-TIC contido na base de que trata o caput deste artigo, consultado pelos órgãos e entidades do SISP, na fase de Planejamento da Contratação, antes do encaminhamento do processo à área jurídica, e no momento que antecede a prorrogação contratual, conforme disposto no art. 36 desta Instrução Normativa.
+§ 2º A consulta de que trata o parágrafo anterior deste artigo deverá ser renovada caso decorra mais de 90 (noventa) dias de sua realização, sem que tenha havido a aceitação do lance vencedor ou a prorrogação contratual, conforme o caso.
+§ 3º Para a elaboração dos Catálogos de Soluções de TIC com Condições Padronizadas, o Órgão Central do SISP poderá celebrar acordos corporativos com fabricantes de soluções de TIC, inclusive quanto ao estabelecimento de preços máximos de compra, tendo tais instrumentos força vinculativa de observância obrigatória pelos órgãos e entidades do SISP, após a publicação dos respectivos Catálogos, conforme disposto nesta Instrução Normativa.
+§ 4º Na ausência de acordo corporativo com o fabricante da solução de TIC, o Órgão Central do SISP poderá elaborar os Catálogos de Soluções de TIC com Condições Padronizadas de forma unilateral, a partir de dados oriundos de contratações feitas no âmbito do SISP, pesquisas de mercado, além de outros elementos.
+</Artigo 40 da Instrução Normativa SGD/ME nº 94/2022>
+
+<Instrução Normativa SEGES/ME nº 65/2021>
+Formalização
+Art. 3º A pesquisa de preços será materializada em documento que conterá, no mínimo:
+I - descrição do objeto a ser contratado;
+II - identificação do(s) agente(s) responsável(is) pela pesquisa ou, se for o caso, da equipe de planejamento;
+III - caracterização das fontes consultadas;
+IV - série de preços coletados;
+V - método estatístico aplicado para a definição do valor estimado;
+VI - justificativas para a metodologia utilizada, em especial para a desconsideração de valores inconsistentes, inexequíveis ou excessivamente elevados, se aplicável;
+VII - memória de cálculo do valor estimado e documentos que lhe dão suporte; e
+VIII - justificativa da escolha dos fornecedores, no caso da pesquisa direta de que dispõe o inciso IV do art. 5º.
+
+Critérios
+Art. 4º Na pesquisa de preços, sempre que possível, deverão ser observadas as condições comerciais praticadas, incluindo prazos e locais de entrega, instalação e montagem do bem ou execução do serviço, quantidade contratada, formas e prazos de pagamento, fretes, garantias exigidas e marcas e modelos, quando for o caso, observadas a potencial economia de escala e as peculiaridades do local de execução do objeto.
+
+Parágrafo único. No caso de previsão de matriz de alocação de riscos entre o contratante e o contratado, o cálculo do valor estimado da contratação poderá considerar taxa de risco compatível com o objeto da licitação e os riscos atribuídos ao contratado, de acordo com a metodologia estabelecida no Caderno de Logística, elaborado pela Secretaria de Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia.
+
+Parâmetros
+Art. 5º A pesquisa de preços para fins de determinação do preço estimado em processo licitatório para a aquisição de bens e contratação de serviços em geral será realizada mediante a utilização dos seguintes parâmetros, empregados de forma combinada ou não:
+I - composição de custos unitários menores ou iguais à mediana do item correspondente nos sistemas oficiais de governo, como Painel de Preços ou banco de preços em saúde, observado o índice de atualização de preços correspondente;
+II - contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, inclusive mediante sistema de registro de preços, observado o índice de atualização de preços correspondente;
+III - dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelo Poder Executivo federal e de sítios eletrônicos especializados ou de domínio amplo, desde que atualizados no momento da pesquisa e compreendidos no intervalo de até 6 (seis) meses de antecedência da data de divulgação do edital, contendo a data e a hora de acesso;
+IV - pesquisa direta com, no mínimo, 3 (três) fornecedores, mediante solicitação formal de cotação, por meio de ofício ou e-mail, desde que seja apresentada justificativa da escolha desses fornecedores e que não tenham sido obtidos os orçamentos com mais de 6 (seis) meses de antecedência da data de divulgação do edital; ou
+V - pesquisa na base nacional de notas fiscais eletrônicas, desde que a data das notas fiscais esteja compreendida no período de até 1 (um) ano anterior à data de divulgação do edital, conforme disposto no Caderno de Logística, elaborado pela Secretaria de Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia.
+§ 1º Deverão ser priorizados os parâmetros estabelecidos nos incisos I e II, devendo, em caso de impossibilidade, apresentar justificativa nos autos.
+§ 2º Quando a pesquisa de preços for realizada com fornecedores, nos termos do inciso IV, deverá ser observado:
+I - prazo de resposta conferido ao fornecedor compatível com a complexidade do objeto a ser licitado;
+II - obtenção de propostas formais, contendo, no mínimo:
+	a) descrição do objeto, valor unitário e total;
+	b) número do Cadastro de Pessoa Física - CPF ou do Cadastro Nacional de Pessoa Jurídica - CNPJ do proponente;
+	c) endereços físico e eletrônico e telefone de contato;
+	d) data de emissão; e
+	e) nome completo e identificação do responsável.
+III - informação aos fornecedores das características da contratação contidas no art. 4º, com vistas à melhor caracterização das condições comerciais praticadas para o objeto a ser contratado; e
+IV - registro, nos autos do processo da contratação correspondente, da relação de fornecedores que foram consultados e não enviaram propostas como resposta à solicitação de que trata o inciso IV do caput.
+§ 3º Excepcionalmente, será admitido o preço estimado com base em orçamento fora do prazo estipulado no inciso II do caput, desde que devidamente justificado nos autos pelo agente responsável e observado o índice de atualização de preços correspondente.
+
+Metodologia para obtenção do preço estimado
+Art. 6º Serão utilizados, como métodos para obtenção do preço estimado, a média, a mediana ou o menor dos valores obtidos na pesquisa de preços, desde que o cálculo incida sobre um conjunto de três ou mais preços, oriundos de um ou mais dos parâmetros de que trata o art. 5º, desconsiderados os valores inexequíveis, inconsistentes e os excessivamente elevados.
+§ 1º Poderão ser utilizados outros critérios ou métodos, desde que devidamente justificados nos autos pelo gestor responsável e aprovados pela autoridade competente.
+§ 2º Com base no tratamento de que trata o caput, o preço estimado da contratação poderá ser obtido, ainda, acrescentando ou subtraindo determinado percentual, de forma a aliar a atratividade do mercado e mitigar o risco de sobrepreço.
+§ 3º Para desconsideração dos valores inexequíveis, inconsistentes ou excessivamente elevados, deverão ser adotados critérios fundamentados e descritos no processo administrativo.
+§ 4º Os preços coletados devem ser analisados de forma crítica, em especial, quando houver grande variação entre os valores apresentados.
+§ 5º Excepcionalmente, será admitida a determinação de preço estimado com base em menos de três preços, desde que devidamente justificada nos autos pelo gestor responsável e aprovada pela autoridade competente.
+§ 6º Quando o preço estimado for obtido com base única no inciso I do art. 5º, o valor não poderá ser superior à mediana do item nos sistemas consultados.
+
+Contratação direta
+Art. 7º Nas contratações diretas por inexigibilidade ou por dispensa de licitação, aplica-se o disposto no art. 5º.
+§ 1º Quando não for possível estimar o valor do objeto na forma estabelecida no art. 5º, a justificativa de preços será dada com base em valores de contratações de objetos idênticos, comercializados pela futura contratada, por meio da apresentação de notas fiscais emitidas para outros contratantes, públicos ou privados, no período de até 1 (um) ano anterior à data da contratação pela Administração, ou por outro meio idôneo.
+§ 2º Excepcionalmente, caso a futura contratada não tenha comercializado o objeto anteriormente, a justificativa de preço de que trata o parágrafo anterior poderá ser realizada com objetos semelhantes de mesma natureza, devendo apresentar especificações técnicas que demonstrem similaridade com o objeto pretendido.
+§ 3º Fica vedada a contratação direta por inexigibilidade caso a justificativa de preços demonstre a possibilidade de competição.
+§ 4º Na hipótese de dispensa de licitação com base nos incisos I e II do art. 75 da Lei nº 14.133, de 1º de abril de 2021, a estimativa de preços de que trata o caput poderá ser realizada concomitantemente à seleção da proposta economicamente mais vantajosa.
+§ 5º O procedimento do § 4º será realizado por meio de solicitação formal de cotações a fornecedores.
+
+Contratação de itens de Tecnologia da Informação e Comunicação – TIC
+Art. 8º Os preços de itens constantes nos Catálogos de Soluções de TIC com Condições Padronizadas, publicados pela Secretaria de Governo Digital da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia, deverão ser utilizados como preço estimado, salvo se a pesquisa de preços realizada resultar em valor inferior.
+Parágrafo único. As estimativas de preços constantes em modelos de contratação de soluções de TIC, publicados pela Secretaria de Governo Digital, poderão ser utilizadas como preço estimado.
+
+Contratação de serviços com dedicação de mão de obra exclusiva
+Art. 9º Na pesquisa de preço para obtenção do preço estimado relativo às contratações de prestação de serviços com regime de dedicação de mão de obra exclusiva, aplica-se o disposto na Instrução Normativa nº 5, de 26 de maio de 2017, ou outra que venha a substituí-la, observando, no que couber, o disposto nesta Instrução Normativa.
+
+Orientações gerais
+Art. 10. Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas, salvo na hipótese de licitação cujo critério de julgamento for por maior desconto.
+</Instrução Normativa SEGES/ME nº 65/2021>
+
+<Anexo VII-A da Instrução Normativa SEGES/MP nº 5/2017, subitens 6.3, 7.6, 7.7 e 7.8>
+6.3. Quando se tratar de serviços com fornecimento de mão de obra exclusiva, o modelo de planilha de custos e formação de preços, Anexo VII-D, constituirá anexo do ato convocatório e deverá ser preenchido pelos proponentes para análise da exequibilidade prevista do subitem 7.6 deste Anexo;
+
+7.6. A análise da exequibilidade da proposta de preços nos serviços continuados com dedicação exclusiva da mão de obra deverá ser realizada com o auxílio da planilha de custos e formação de preços, a ser preenchida pelo licitante em relação à sua proposta final;
+
+7.7. O modelo de planilha de custos e formação de preços previsto no Anexo VII-D desta Instrução Normativa deverá ser adaptado às especificidades do serviço e às necessidades do órgão ou entidade contratante, de modo a permitir a identificação de todos os custos envolvidos na execução do serviço, e constituirá anexo do ato convocatório a ser preenchido pelos proponentes;
+
+7.8. Quando a modalidade de licitação for pregão, realizado na forma eletrônica, a planilha de custos e formação de preços deverá ser entregue e analisada no momento da aceitação do lance vencedor;
+</Anexo VII-A da Instrução Normativa SEGES/MP nº 5/2017, subitens 6.3, 7.6, 7.7 e 7.8>
+
+<Orientação Normativa nº 17/2009 da AGU>
+A RAZOABILIDADE DO VALOR DAS CONTRATAÇÕES DECORRENTES DE INEXIGIBILIDADE DE LICITAÇÃO PODERÁ SER AFERIDA POR MEIO DA COMPARAÇÃO DA PROPOSTA APRESENTADA COM OS PREÇOS PRATICADOS PELA FUTURA CONTRATADA JUNTO A OUTROS ENTES PÚBLICOS E/OU PRIVADOS, OU OUTROS MEIOS IGUALMENTE IDÔNEOS.
+</Orientação Normativa nº 17/2009 da AGU>
+
+- **Acórdão TCU nº 1.233/2012-Plenário**: reconhece a primazia de preços efetivamente praticados pela Administração Pública sobre cotações de fornecedores, por refletirem condições reais de mercado competitivo.
+
+<Enunciado do Plenário do TCU - Informativo de Licitações e Contratos nº 361/2019>
+A justificativa de preço em contratação decorrente de inexigibilidade de licitação pode ser feita mediante a comparação do valor ofertado com aqueles praticados pelo contratado junto a outros entes públicos ou privados, em avenças envolvendo o mesmo objeto ou objeto similar.
+</Enunciado do Plenário do TCU - Informativo de Licitações e Contratos nº 361/2019>
+
+<Itens 9.5.1 e 9.5.2 do Acórdão TCU nº 1.875/2021-Plenário>
+9.5.1. as pesquisas de preços para estimativa de valor de objetos a serem licitados devem ser baseadas em uma "cesta de preços", devendo dar preferência para preços públicos, oriundos de outros certames;
+
+9.5.2. a pesquisa de preços feita exclusivamente junto a fornecedores deve ser utilizada em último caso, na extrema ausência de preços públicos ou cestas de preços referenciais;
+</Itens 9.5.1 e 9.5.2 do Acórdão TCU nº 1.875/2021-Plenário>
+
+<Acórdão TCU nº 2.170/2007-Plenário>
+1. A aferição de preços nas aquisições e contratações de produtos e serviços de tecnologia da informação, no âmbito da Administração Pública federal, na fase de estimativa de preços, no momento de adjudicação do objeto do certame licitatório, na contratação e alterações posteriores, deve se basear em valores aceitáveis, que se encontrem dentro da faixa usualmente praticada pelo mercado em determinada época, obtida por meio de pesquisa a partir de fontes diversas, como orçamentos de fornecedores, valores adjudicados em licitações de órgãos públicos - inclusos aqueles constantes no Comprasnet -, valores registrados em atas de Sistema de Registro de Preços, entre outras, a exemplo de compras/contratações realizadas por corporações privadas em condições idênticas ou semelhantes àquelas da Administração Pública.
+2. Preço aceitável, a ser considerado na faixa de preços referida no item precedente, é aquele que não representa claro viés em relação ao contexto do mercado, ou seja, abaixo do limite inferior ou acima do maior valor constante da faixa identificada para o produto ou serviço.
+3. A utilização de fontes que não sejam capazes de representar o mercado de tecnologia da informação para produtos com certa complexidade ou serviços fornecidos para o setor público - como sites na Internet, inclusive internacionais - pode servir apenas como mero indicativo de preço, sem que sirvam os valores encontrados, por si sós, para caracterização de sobrepreço ou superfaturamento.
+4. Os critérios apontados nos itens precedentes devem balizar, também, a atuação dos órgãos de controle, ao ser imputado sobrepreço ou superfaturamento nas aquisições e contratações relacionadas à área de tecnologia da informação.
+</Acórdão TCU nº 2.170/2007-Plenário>
+
+# Instrumento de Padronização de Contratação da AGU
+- **Estimativas do Valor da Contratação**, acompanhadas dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, com os parâmetros utilizados para a obtenção dos preços e para os respectivos cálculos, que devem constar de documento separado e classificado. Recomenda-se atenção ao seguinte:
+	- Refinar, se for necessário, a estimativa de preços ou meios de previsão de preços referenciais realizados nos Estudos Preliminares, caso tenha havido coleta de novos elementos auxiliares à melhor mensuração dos valores envolvidos.
+	- A estimativa de preço da contratação deverá ser realizada pelo integrante técnico com o apoio do integrante administrativo e observar a Instrução Normativa SEGES/ME nº 65/2021.
+	- A estimativa de preço derivada exclusivamente de propostas de fornecedores **somente** deverá ser utilizada mediante justificativa, nos casos em que não for possível obter preços de contratações similares de outros entes públicos ou do Painel de Preços, e, sempre que possível, deverá considerar os valores praticados diretamente pelos fabricantes.
+	- Os Catálogos de Soluções de TIC com Condições Padronizadas (PMC-TIC) deverão ser utilizados como preço estimado, salvo se a pesquisa de preços realizada resultar em valor inferior.
+	- As estimativas de preços constantes em modelos de contratação de soluções de TIC publicados pelo Órgão Central do SISP poderão ser utilizadas como preço estimado.
+	- No caso de serviços **com** **regime de dedicação exclusiva de mão de obra**, o custo estimado da contratação deve contemplar o valor máximo global e mensal estabelecido em decorrência da identificação dos elementos que compõem o preço dos serviços, definidos da seguinte forma:
+		- por meio do preenchimento da **Planilha de Custos e Formação de Preços**, observados os custos dos itens referentes ao serviço, podendo ser motivadamente dispensada naquelas contratações em que a natureza do seu objeto torne inviável ou desnecessário o detalhamento dos custos para aferição da exequibilidade dos preços praticados;
+			- O modelo de Planilha de Custos e Formação de Preços deve constar como anexo do ato convocatório da licitação e deverá ser preenchido pelos proponentes para análise da exequibilidade da proposta de preços;
+			- É possível fixar salários em valores superiores aos pisos estabelecidos em acordos ou convenções coletivas de trabalho, desde que sejam preenchidos dois requisitos:
+				i) justificativa técnica de que os serviços demandam, por suas características e particularidades, a execução por profissional com nível de qualificação acima da média; e
+				ii) realização de pesquisa de preços demonstrando a compatibilidade com os valores de mercado para contratações similares, ou seja, comprovação de que no mercado existe tal distinção salarial em função da qualificação do trabalhador (Acórdão TCU nº 2101/2020-Plenário).
+		- por meio de fundamentada pesquisa dos preços praticados no mercado em contratações similares; ou ainda por meio da adoção de valores constantes de indicadores setoriais, tabelas de fabricantes, valores oficiais de referência, tarifas públicas ou outros equivalentes, se for o caso;
+		- por meio da previsão de regras claras quanto à composição dos custos que impactem no valor global das propostas das licitantes, principalmente no que se refere a regras de depreciação de equipamentos a serem utilizados no serviço.
+
+# Nome do Quesito
+- [nome_quesito] = "TR - Estimativa do Valor da Contratação".
+
+# Pergunta
+- O 'Documento Referenciado' apresenta a estimativa de preços, incluindo orçamento detalhado com preços unitários, memória de cálculo e parâmetros?
+- Os parâmetros da estimativa de preços constam em documento apartado que efetivou a Pesquisa de Preços devidamente citado no TR?
+- A pesquisa constante no documento apartado que efetivou a Pesquisa de Preços observou a Instrução Normativa SEGES/ME nº 65/2021: fontes priorizadas (sistemas oficiais – Painel/Compras.gov.br, e contratações similares); justificativa quando usar exclusivamente propostas de fornecedores e, sempre que possível, considerou os valores praticados diretamente pelos fabricantes; método estatístico (média/mediana/menor) com regra geral de ≥3 preços e tratamento de outliers/valores inconsistentes, admitida excepcionalmente a estimativa com menos de 3 preços, desde que devidamente justificada e aprovada pela autoridade competente; homogeneização de datas/condições comerciais, registro de fornecedores consultados e não respondentes; e, quando o preço estimado tiver sido obtido com base única em sistema oficial (parâmetro do art. 5º, I, da Instrução Normativa SEGES/ME nº 65/2021), verificou-se se o valor não excede a mediana do item nos sistemas consultados?
+- Quando aplicável, a pesquisa constante no documento apartado que efetivou a Pesquisa de Preços utilizou como preço estimado os valores dos **Catálogos de Soluções de TIC com Condições Padronizadas (PMC-TIC)** e/ou modelos de contratação publicados pelo Órgão Central do SISP, ou justificou tecnicamente a não utilização, incluindo a evidência da data da consulta e sua renovação caso tenha decorrido mais de 90 dias sem aceitação do lance vencedor (quando aplicável ao marco do processo), nos termos do art. 40, § 2º, da Instrução Normativa SGD/ME nº 94/2022?
+- Quando se tratar de serviços **com regime de dedicação exclusiva de mão de obra**, o 'Documento Referenciado' evidencia que o custo estimado contempla valor máximo global e mensal, com a Planilha de Custos e Formação de Preços (ou justificativa motivada para sua dispensa quando inviável/desnecessária), e prevê regras claras de composição de custos que impactem o valor global (inclusive depreciação de equipamentos, quando aplicável), bem como indica que o modelo da planilha constará como anexo do ato convocatório e será preenchido pelos proponentes para análise de exequibilidade (observando, no que couber, as diretrizes da Instrução Normativa SEGES/MP nº 5/2017, Anexo VII-A)?
+
+# Instruções de Análise do Controle Normativo
+1. **Completude do TR (peça apartada)**: Verifique se o TR apresenta a estimativa de preços com orçamento detalhado (preços unitários), memória de cálculo e parâmetros da estimativa de preços constante em documento apartado devidamente citado no TR. Ausência de qualquer um ⇒ não atendimento.
+2. **Fontes Priorizadas e Justificativas**: Avalie se foram priorizados (i) sistemas oficiais (Compras.gov.br/Painel) e (ii) contratações similares, com justificativa formal quando não utilizados; uso exclusivo de cotações de fornecedores exige justificativa e registro de consultados/não respondentes; busque evidências de composição de "cesta de preços" aceitáveis, com preferência por preços públicos oriundos de outros certames, e uso de cotações de fornecedores como último recurso. Ausência desses registros ⇒ atendimento parcial ou não atendimento, conforme volume de registros ausentes.
+3. **Método e Amostra**: Cheque se a pesquisa de preços constante no documento apartado que efetivou a Pesquisa de Preços declara o método (média/mediana/menor) aplicado sobre ≥3 preços de parâmetros válidos, com critérios para desconsideração de valores inexequíveis/inconsistentes/excessivamente elevados (tratamento de outliers) e análise crítica de grande variação. Excepcionalmente, admita preço estimado com menos de 3 preços quando houver justificativa formal do gestor responsável e aprovação da autoridade competente. Quando o preço estimado for obtido com base única no parâmetro do art. 5º, I, da Instrução Normativa SEGES/ME nº 65/2021, verifique se o valor não excede a mediana do item no(s) sistema(s) consultado(s). Sem método/sem amostra mínima/sem tratamento de outliers ⇒ não atendimento.
+4. **Comparabilidade/Condições Comerciais**: Verifique se os preços usados na pesquisa foram homogeneizados quanto a prazos e locais de entrega, quantidade/escala, garantias, frete, formas/prazos de pagamento, marcas/modelos equivalentes (quando couber) e índice de atualização para a mesma data-base. Comparações sem equivalência ⇒ atendimento parcial.
+5. **Temporalidade e Validade**: Confirme a janela temporal das fontes utilizadas na pesquisa de preços constante no documento apartado que efetivou a Pesquisa de Preços: sites/mídia (≤ 6 meses), contratações similares e notas fiscais (até 1 ano), com atualização por índice quando necessário. Uso fora do prazo sem justificativa ⇒ atendimento parcial.
+6. **PMC-TIC / Modelos SISP**: Para itens de TIC constantes nos Catálogos PMC-TIC, utilize-os como preço estimado (e, quando previsto, como valor máximo da contratação); modelos de contratação do Órgão Central podem ser usados como referência. Verifique a evidência da data de consulta ao PMC-TIC e a sua renovação caso tenha decorrido mais de 90 dias sem aceitação do lance vencedor (quando aplicável ao marco do processo), nos termos do art. 40, § 2º, da Instrução Normativa SGD/ME nº 94/2022. Se aplicável e ausente ⇒ não atendimento.
+7. **Dedicação exclusiva de mão de obra (quando aplicável)**: Se o objeto envolver serviços com regime de dedicação exclusiva de mão de obra, verifique se o custo estimado contempla valor máximo global e mensal e se há Planilha de Custos e Formação de Preços devidamente estruturada (ou dispensa motivada quando inviável/desnecessária). Confirme que a planilha permite análise de exequibilidade e contempla regras claras de composição de custos que impactem o valor global (inclusive regras de depreciação de equipamentos, quando aplicável), e que o processo indica que o modelo da planilha será anexado ao ato convocatório e preenchido pelos licitantes. Considere, no que couber, as diretrizes da Instrução Normativa SEGES/MP nº 5/2017 (Anexo VII-A) quanto ao uso/anexação da planilha, possibilidade de dispensa motivada e necessidade de adaptação às características do serviço e à CCT/ACT aplicável. Se houver previsão de salários acima de pisos de CCT/ACT, exija a presença cumulativa de justificativa técnica (qualificação acima da média exigida pelo serviço) e pesquisa de preços demonstrando compatibilidade com o mercado de contratações similares. Ausências relevantes ⇒ não atendimento.
+8. **Rastreabilidade e Auditabilidade**: A pesquisa de preços constante no documento apartado que efetivou a Pesquisa de Preços deve identificar fontes consultadas, método estatístico, planilhas/memórias e justificativas (inclusive de desconsiderações e exclusões), permitindo reprodução e verificação. Falta de rastreabilidade ⇒ atendimento parcial.
+9. **Aderência à Jurisprudência do TCU**: Exija robustez da pesquisa, priorização de dados oficiais, consistência metodológica (média/mediana/menor com justificativa) e mitigação de distorções (p.ex., preços muito díspares), inclusive com referência à orientação de pesquisa por “cesta de preços” aceitáveis e preferência por preços públicos, utilizando cotações de fornecedores como último recurso. Indícios de pesquisa frágil (amostra insuficiente, dependência de poucas cotações, ausência de justificativas) ⇒ atendimento parcial.
+
+
+# Formato da Resposta
+- Inicie a resposta com a seção '# Quesito:' e na mesma linha o valor da variável '[nome_quesito]' acima.
+- Abaixo, apresente a seção '## Atende ao Quesito:' e na mesma linha indique uma das opções de atendimento: "Sim"; "Não"; ou "Parcialmente".
+- Em seguida, apresente a seção '### Fundamentos da Análise do Controle Normativo' da resposta, incluindo os dispositivos Normativos ou Jurisprudências que sustentam a análise.
+- **APENAS SE** no início da resposta a opção de 'Atende ao Quesito' for "Não" ou "Parcialmente", crie ao final duas seções adicionais:
+	- '### Sugestões': indique ajustes no 'Documento Referenciado' para que passe a atender ao quesito de acordo com "Sim" na próxima análise.
+	- '### Transcrição dos Ajustes': faça transcrição do '#### Texto Original - Item XX' e do '#### Texto Ajustado - Item XX' **sobre cada item** relacionado com as sugestões de ajustes indicadas na seção 'Sugestões' anterior, para que passe a atender ao quesito de acordo com "Sim" na próxima análise. Em "Item XX", "XX" deve trocar pelo número de identificação do item correspondente a ser ajustado.
+
+# Documento Referenciado
+#xxxxxxxx - Termo de Referência (TR)
+#xxxxxxxx - documento apartado que efetivou a Pesquisa de Preços

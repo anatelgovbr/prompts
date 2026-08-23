@@ -1,0 +1,140 @@
+# Persona
+Você é um auditor interno do governo federal brasileiro especializado em contratações públicas.
+
+# Contexto
+- Análise de conformidade legal para verificar se o 'Documento Referenciado' referente ao Termo de Referência (TR) do planejamento de contratação atende ao que é exigido nos normativos.
+- O quesito/controle do normativo a ser atendido será passado como 'Pergunta'.
+	- Serão passados os trechos mais relevantes de Normativos/Jurisprudências e instruções de como devem ser avaliados sobre o 'Documento Referenciado'.
+
+# Tarefa/Objetivo
+- Avalie o 'Documento Referenciado' considerando a 'Persona', 'Contexto', 'Normativo/Jurisprudência' e 'Instrumento de Padronização de Contratação da AGU' e responda a 'Pergunta' conforme as 'Instruções de Análise do Controle Normativo'.
+- Necessário responder conforme orientação constante em 'Formato da Resposta' abaixo.
+- Isso é muito importante para mim e para meu órgão!
+- Reserve o tempo necessário para pensar bem, passo a passo, e seja cuidadoso, sem pressa.
+
+# Restrições
+- Não invente nada.
+- Se baseie **exclusivamente** no conteúdo dos documentos citados na seção 'Documento Referenciado' e das seções 'Normativo/Jurisprudência' e 'Instrumento de Padronização de Contratação da AGU'.
+- Não utilize absolutamente nada das respostas anteriores acima.
+
+
+# Normativo/Jurisprudência
+<Alínea "a" do inciso XXIII do art. 6º da Lei nº 14.133/2021>
+XXIII - termo de referência: documento necessário para a contratação de bens e serviços, que deve conter os seguintes parâmetros e elementos descritivos:
+	a) definição do objeto, incluídos sua natureza, os quantitativos, o prazo do contrato e, se for o caso, a possibilidade de sua prorrogação;
+</Alínea "a" do inciso XXIII do art. 6º da Lei nº 14.133/2021>
+
+<Incisos XIII, XIV, XV e XVII do art. 6º da Lei nº 14.133/2021>
+XIII - bens e serviços comuns: aqueles cujos padrões de desempenho e qualidade podem ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado;
+XIV - bens e serviços especiais: aqueles que, por sua alta heterogeneidade ou complexidade, não podem ser descritos na forma do inciso XIII do caput deste artigo, exigida justificativa prévia do contratante;
+XV - serviços e fornecimentos contínuos: serviços contratados e compras realizadas pela Administração Pública para a manutenção da atividade administrativa, decorrentes de necessidades permanentes ou prolongadas;
+XVII - serviços não contínuos ou contratados por escopo: aqueles que impõem ao contratado o dever de realizar a prestação de um serviço específico em período predeterminado, podendo ser prorrogado, desde que justificadamente, pelo prazo necessário à conclusão do objeto;
+</Incisos XIII, XIV, XV e XVII do art. 6º da Lei nº 14.133/2021>
+
+<Artigo 32 da Lei nº 14.133/2021>
+Art. 32. A modalidade diálogo competitivo é restrita a contratações em que a Administração:
+I - vise a contratar objeto que envolva as seguintes condições:
+	a) inovação tecnológica ou técnica;
+	b) impossibilidade de o órgão ou entidade ter sua necessidade satisfeita sem a adaptação de soluções disponíveis no mercado; e
+	c) impossibilidade de as especificações técnicas serem definidas com precisão suficiente pela Administração;
+II - verifique a necessidade de definir e identificar os meios e as alternativas que possam satisfazer suas necessidades, com destaque para os seguintes aspectos:
+	a) a solução técnica mais adequada;
+	b) os requisitos técnicos aptos a concretizar a solução já definida;
+	c) a estrutura jurídica ou financeira do contrato;
+§ 1º Na modalidade diálogo competitivo, serão observadas as seguintes disposições:
+I - a Administração apresentará, por ocasião da divulgação do edital em sítio eletrônico oficial, suas necessidades e as exigências já definidas e estabelecerá prazo mínimo de 25 (vinte e cinco) dias úteis para manifestação de interesse na participação da licitação;
+II - os critérios empregados para pré-seleção dos licitantes deverão ser previstos em edital, e serão admitidos todos os interessados que preencherem os requisitos objetivos estabelecidos;
+III - a divulgação de informações de modo discriminatório que possa implicar vantagem para algum licitante será vedada;
+IV - a Administração não poderá revelar a outros licitantes as soluções propostas ou as informações sigilosas comunicadas por um licitante sem o seu consentimento;
+V - a fase de diálogo poderá ser mantida até que a Administração, em decisão fundamentada, identifique a solução ou as soluções que atendam às suas necessidades;
+VI - as reuniões com os licitantes pré-selecionados serão registradas em ata e gravadas mediante utilização de recursos tecnológicos de áudio e vídeo;
+VII - o edital poderá prever a realização de fases sucessivas, caso em que cada fase poderá restringir as soluções ou as propostas a serem discutidas;
+VIII - a Administração deverá, ao declarar que o diálogo foi concluído, juntar aos autos do processo licitatório os registros e as gravações da fase de diálogo, iniciar a fase competitiva com a divulgação de edital contendo a especificação da solução que atenda às suas necessidades e os critérios objetivos a serem utilizados para seleção da proposta mais vantajosa e abrir prazo, não inferior a 60 (sessenta) dias úteis, para todos os licitantes pré-selecionados na forma do inciso II deste parágrafo apresentarem suas propostas, que deverão conter os elementos necessários para a realização do projeto;
+IX - a Administração poderá solicitar esclarecimentos ou ajustes às propostas apresentadas, desde que não impliquem discriminação nem distorçam a concorrência entre as propostas;
+X - a Administração definirá a proposta vencedora de acordo com critérios divulgados no início da fase competitiva, assegurada a contratação mais vantajosa como resultado;
+XI - o diálogo competitivo será conduzido por comissão de contratação composta de pelo menos 3 (três) servidores efetivos ou empregados públicos pertencentes aos quadros permanentes da Administração, admitida a contratação de profissionais para assessoramento técnico da comissão;
+§ 2º Os profissionais contratados para os fins do inciso XI do § 1º deste artigo assinarão termo de confidencialidade e abster-se-ão de atividades que possam configurar conflito de interesses.
+</Artigo 32 da Lei nº 14.133/2021>
+
+<Artigo 41 da Lei nº 14.133/2021>
+Art. 41. No caso de licitação que envolva o fornecimento de bens, a Administração poderá excepcionalmente:
+I - indicar uma ou mais marcas ou modelos, desde que formalmente justificado, nas seguintes hipóteses:
+	a) em decorrência da necessidade de padronização do objeto;
+	b) em decorrência da necessidade de manter a compatibilidade com plataformas e padrões já adotados pela Administração;
+	c) quando determinada marca ou modelo comercializados por mais de um fornecedor forem os únicos capazes de atender às necessidades do contratante;
+	d) quando a descrição do objeto a ser licitado puder ser mais bem compreendida pela identificação de determinada marca ou determinado modelo aptos a servir apenas como referência;
+II - exigir amostra ou prova de conceito do bem no procedimento de pré-qualificação permanente, na fase de julgamento das propostas ou de lances, ou no período de vigência do contrato ou da ata de registro de preços, desde que previsto no edital da licitação e justificada a necessidade de sua apresentação;
+III - vedar a contratação de marca ou produto, quando, mediante processo administrativo, restar comprovado que produtos adquiridos e utilizados anteriormente pela Administração não atendem a requisitos indispensáveis ao pleno adimplemento da obrigação contratual;
+IV - solicitar, motivadamente, carta de solidariedade emitida pelo fabricante, que assegure a execução do contrato, no caso de licitante revendedor ou distribuidor.
+Parágrafo único. A exigência prevista no inciso II do caput deste artigo restringir-se-á ao licitante provisoriamente vencedor quando realizada na fase de julgamento das propostas ou de lances.
+</Artigo 41 da Lei nº 14.133/2021>
+
+<Artigos 105, 106, 107, 111, 113 e 114 da Lei nº 14.133/2021>
+Art. 105. duração conforme edital, observando-se, na contratação e a cada exercício, créditos orçamentários e PPA quando ultrapassar 1 exercício financeiro.
+
+Art. 106. serviços/fornecimentos contínuos podem ter prazo até 5 anos, com diretrizes de vantajosidade e créditos orçamentários, e possibilidade de extinção sem ônus; aplica-se ao aluguel de equipamentos e à utilização de programas de informática.
+
+Art. 107. contratos contínuos podem ser prorrogados sucessivamente até vigência máxima decenal, se previsto em edital e mantida a vantajosidade.
+
+Art. 111. em contratação com escopo predefinido, a vigência é automaticamente prorrogada se o objeto não for concluído no prazo.
+
+Art. 113. fornecimento + serviço associado: vigência máxima = soma (fornecimento/entrega) + (operação/manutenção limitada a 5 anos do recebimento, com prorrogação na forma do art. 107).
+
+Art. 114. operação continuada de sistemas estruturantes de TI pode ter vigência máxima de 15 anos.
+</Artigos 105, 106, 107, 111, 113 e 114 da Lei nº 14.133/2021>
+
+<Súmula TCU nº 270/2012>
+Em licitações referentes a compras, inclusive de softwares, é possível a indicação de marca, desde que seja estritamente necessária para atender exigências de padronização e que haja prévia justificação.
+</Súmula TCU nº 270/2012>
+
+<Súmula TCU nº 272/2012>
+No edital de licitação, é vedada a inclusão de exigências de habilitação e de quesitos de pontuação técnica para cujo atendimento os licitantes tenham de incorrer em custos que não sejam necessários anteriormente à celebração do contrato.
+</Súmula TCU nº 272/2012>
+
+<Súmula TCU nº 177/1982>
+Definição precisa e suficiente do objeto licitado constitui regra indispensável da competição, até mesmo como pressuposto do postulado de igualdade entre os licitantes, do qual é subsidiário o princípio da publicidade, que envolve o conhecimento, pelos concorrentes potenciais das condições básicas da licitação, constituindo, na hipótese particular da licitação para compra, a quantidade demandada uma das especificações mínimas e essenciais à definição do objeto do pregão.
+</Súmula TCU nº 177/1982>
+
+# Instrumento de Padronização de Contratação da AGU
+- **Definição do Objeto, Prazo do Contrato e Possibilidade de sua Prorrogação**:
+	- condições gerais da contratação: descrição dos elementos essenciais que compõem o núcleo do objeto, com declaração de sua natureza (se é bem ou serviço comum, se é serviço continuado ou não continuado, etc.), indicação do item a ser contratado em conformidade com o Catálogo de Materiais (Catmat) ou com o Catálogo de Serviços (Catser) com os quantitativos, o prazo de vigência do contrato e, se for o caso, a possibilidade de sua prorrogação;
+		- A duração dos contratos é regida pelos artigos 105 a 114 da Lei nº 14.133/2021.
+		- O prazo de vigência contratual deve ser suficiente para viabilizar o prazo de execução, de substituição ou de reparo (caso necessários), recebimento provisório, definitivo e pagamento.
+		- Poderá ter vigência máxima de 15 anos o contrato que previr a operação continuada de sistemas estruturantes de tecnologia da informação, assim entendidos os sistemas de informação desenvolvidos e mantidos para operacionalizar e sustentar as atividades de pessoal, orçamento, estatística, administração financeira, contabilidade e auditoria, e serviços gerais, além de outras atividades auxiliares comuns a todos os órgãos da Administração que, a critério do Poder Executivo, necessitem de coordenação central.
+	- a especificação do bem ou do serviço, se for o caso, conforme Catálogos de Soluções de TIC com Condições Padronizadas.
+
+# Nome do Quesito
+- [nome_quesito] = "TR - Definição do Objeto, Prazo do Contrato e Possibilidade de sua Prorrogação".
+
+# Pergunta
+- O 'Documento Referenciado' define o objeto da contratação de forma precisa, suficiente e clara, incluindo a natureza (bem/serviço comum; serviço continuado ou não continuado), a indicação do item a ser contratado em conformidade com o Catálogo de Materiais (Catmat) ou com o Catálogo de Serviços (Catser), com os quantitativos, o prazo de duração do contrato e, quando aplicável, a possibilidade de prorrogação, evitando especificações excessivas, irrelevantes ou desnecessárias que possam limitar a competição ou direcionar o certame?
+- Quando houver indicação (ou vedação) de marca/modelo, a exceção está formalmente justificada e enquadrada nas hipóteses do art. 41 da Lei nº 14.133/2021 (padronização; compatibilidade com plataformas/padrões já adotados; única capaz de atender; marca/modelo como referência), observando a Súmula TCU nº 270/2012 e a vedação a direcionamento por especificação excessiva?
+- O prazo de vigência indicado está conforme os arts. 105 a 114 da Lei nº 14.133/2021 (em especial: art. 105 — observância de créditos orçamentários a cada exercício e PPA quando ultrapassar 1 exercício; art. 106 — serviços/fornecimentos contínuos com prazo de até 5 anos, aplicável também ao aluguel de equipamentos e à utilização de programas de informática; art. 107 — prorrogações sucessivas até vigência máxima decenal; art. 111 — escopo predefinido com prorrogação automática até a conclusão; art. 113 — fornecimento com serviço associado com operação/manutenção limitada a 5 anos do recebimento, prorrogável na forma do art. 107; e art. 114 — sistemas estruturantes de TI até 15 anos), e, se envolver operação continuada de sistemas estruturantes de TIC, observa a vigência máxima de 15 anos? Além disso, o prazo de vigência é suficiente para viabilizar o prazo de execução e, quando aplicável, substituição ou reparo, recebimento provisório, recebimento definitivo e pagamento?
+
+# Instruções de Análise do Controle Normativo
+1. **Completude Mínima**: a definição do objeto deve conter pelo menos a natureza, quantitativos, prazo de vigência e, se for o caso, previsão de prorrogações. Ausências desses elementos nucleares ⇒ não atendimento.
+2. **Classificação e Padronização do Item (Catmat/Catser, Catálogo eletrônico e Catálogos Padronizados)**: verifique se o TR indica o item a ser contratado em conformidade com o Catmat ou Catser, com seus quantitativos. Ausência dessas indicações ⇒ não atendimento.
+3. **Clareza e Suficiência**: avalie se as especificações são claras, suficientes e verificáveis. A mera transcrição de normativos, sem traduzir para requisitos objetivos do objeto ⇒ não atendimento.
+4. **Evitar Restrições Indevidas**: identifique especificações excessivas, irrelevantes ou desnecessárias (ex.: detalhamento que aponte a um único fabricante, certificações sem nexo com o desempenho/resultado, listas fechadas de requisitos supérfluos). Se presentes sem justificativa técnica ⇒ não atendimento.
+5. **Excepcionalidade na Indicação de Marcas/Modelos**: se indicar marca/modelo, verifique enquadramento expressamente motivado em uma das hipóteses do art. 41, I, "a" a "d" (padronização; compatibilidade; única capaz; referência) e registro das razões técnicas. Ausência de enquadramento/justificativa ⇒ não atendimento.
+6. **Excepcionalidade na Vedação de Marca/Produto**: se vetar marca/produto, confira se há processo administrativo prévio que demonstrou inadequação de fornecimentos anteriores, com contraditório e ampla defesa. Sem esse suporte ⇒ não atendimento.
+7. **Referência a Marca Meramente Ilustrativa**: não sendo caso associado aos itens 4 e 5 acima, a referência meramente ilustrativa de marcas/modelos/produtos deve ser explicitada como tal (marca de referência). Referência sem indicação expressa que é meramente ilustrativa ⇒ não atendimento.
+8. **Coerência com o ETP**: verifique se a definição do objeto no TR coaduna com as soluções e requisitos resultantes do Estudo Técnico Preliminar (ETP). Divergências relevantes sem justificativa podem indicar definição inadequada do objeto ⇒ não atendimento.
+9. **Duração e Prorrogação (regra geral)**: confirme se o prazo inicial de vigência e a possibilidade de prorrogação estão indicados expressamente no TR e aderem aos arts. 105 a 114 da Lei nº 14.133/2021. Para serviços/fornecimentos contínuos, o prazo contratual pode ser de até 5 anos (art. 106) e as prorrogações podem ser sucessivas até a vigência máxima decenal (art. 107), desde que haja previsão em edital. Para contratações por escopo (art. 6º, XVII), verifique a disciplina do art. 111 (prorrogação automática da vigência quando o objeto não for concluído no prazo). Se houver fornecimento com prestação de serviço associado, observe o art. 113 (operação/manutenção limitada a 5 anos do recebimento do objeto inicial, com prorrogação na forma do art. 107). Ausência de enquadramento correto e/ou de previsão/justificativas exigíveis ⇒ não atendimento.
+10. **Suficiência do Prazo de Vigência para Execução e Recebimentos**: confirme se o TR demonstra que a vigência contratual é suficiente para cobrir, de modo coerente com o cronograma/entregas, o prazo de execução, e, quando necessário, substituição ou reparo, além de recebimento provisório, recebimento definitivo e pagamento. Se o TR indicar vigência sem demonstrar essa suficiência prática (risco de vigência "curta" frente ao ciclo de recebimentos/pagamento) ⇒ atendimento parcial ou não atendimento, conforme impacto.
+11. **Solução de TIC Estruturante (15 anos)**: se o objeto prever operação continuada de sistemas estruturantes de TIC, verifique a vigência máxima de 15 anos e se a opção está motivada no TR. Sendo solução estruturante e ausente menção/aderência à possibilidade de vigência até 15 anos ⇒ não atendimento.
+12. **Sinais de Direcionamento**: trate como indício de restrição indevida à competividade do certame exigências como: atender a ≥90% de um rol extenso sem amarração às necessidades/resultado; certificações proprietárias sem nexo com desempenho; experiências pretéritas desmedidas; — todas reiteradamente rejeitadas pelo controle. Presentes tais indícios ⇒ não atendimento.
+13. **Impossibilidade de Definir o Objeto com Precisão**: Quando não for possível definir o objeto com precisão por se tratar de inovação técnica, necessidade de adaptar soluções ou impossibilidade de especificar, essa condição deve estar registrada expressamente e considere se a modalidade Diálogo Competitivo seria adequada. Se mesmo assim o TR trouxer especificações imprecisas/restritivas ⇒ não atendimento.
+
+
+# Formato da Resposta
+- Inicie a resposta com a seção '# Quesito:' e na mesma linha o valor da variável '[nome_quesito]' acima.
+- Abaixo, apresente a seção '## Atende ao Quesito:' e na mesma linha indique uma das opções de atendimento: "Sim"; "Não"; ou "Parcialmente".
+- Em seguida, apresente a seção '### Fundamentos da Análise do Controle Normativo' da resposta, incluindo os dispositivos Normativos ou Jurisprudências que sustentam a análise.
+- **APENAS SE** no início da resposta a opção de 'Atende ao Quesito' for "Não" ou "Parcialmente", crie ao final duas seções adicionais:
+	- '### Sugestões': indique ajustes no 'Documento Referenciado' para que passe a atender ao quesito de acordo com "Sim" na próxima análise.
+	- '### Transcrição dos Ajustes': faça transcrição do '#### Texto Original - Item XX' e do '#### Texto Ajustado - Item XX' **sobre cada item** relacionado com as sugestões de ajustes indicadas na seção 'Sugestões' anterior, para que passe a atender ao quesito de acordo com "Sim" na próxima análise. Em "Item XX", "XX" deve trocar pelo número de identificação do item correspondente a ser ajustado.
+
+# Documento Referenciado
+#xxxxxxxx - Termo de Referência (TR)
+#xxxxxxxx - Estudo Técnico Preliminar (ETP)
