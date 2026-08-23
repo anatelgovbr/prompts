@@ -18,7 +18,7 @@ Assim, a galeria deixa de ser apenas um catálogo e passa a apoiar a adoção re
 
 ## Conteúdo
 
-Atualmente, o repositório reúne **51 prompts em sete áreas**. A contagem considera os arquivos `.txt` presentes na árvore do projeto.
+Atualmente, o repositório reúne **57 prompts em dez áreas**. A contagem considera os arquivos `.txt` presentes na árvore do projeto.
 
 | Área | Finalidade | Prompts | Orientações e descrições |
 | --- | --- | ---: | --- |
@@ -27,9 +27,12 @@ Atualmente, o repositório reúne **51 prompts em sete áreas**. A contagem cons
 | [Linguagem Simples](Linguagem_Simples/) | Reescrever conteúdos a partir de texto colado, protocolo SEI ou uma ou mais URLs Gov.br. | 4 | [Orientações](Linguagem_Simples/REAME.md) |
 | [Localizar de Prazos](Localizar_de_Prazos/) | Localizar prazos em documentos ou normas e organizá-los em tabela resumida. | 2 | [Orientações](Localizar_de_Prazos/REAME.md) |
 | [Processo Administrativo Fiscal (PAF)](Processo_Administrativo_Fiscal-PAF/) | Produzir relatório sobre impugnação de crédito tributário em PAF. | 1 | [Orientações](Processo_Administrativo_Fiscal-PAF/REAME.md) |
+| [Otimizador de Prompts](Otimizador_de_Prompts/) | Criar ou revisar prompts e ideias conforme o Modelo de Prompt Perfeito. | 1 | [Orientações](Otimizador_de_Prompts/REAME.md) |
+| [Recapitulação de Reuniões](Recapitulacao_de_Reunicoes/) | Criar recapitulação de reunião e lista de ações a partir de transcrição ou gravação. | 3 | [Orientações](Recapitulacao_de_Reunicoes/REAME.md) |
+| [Scrum: Criador de Estórias de Usuário](Scrum_Criador_de_Estorias_de_Usuario/) | Transformar decisões confirmadas em Estórias de Usuário a partir de gravação de reunião, conforme boas práticas do Scrum. | 2 | [Orientações](Scrum_Criador_de_Estorias_de_Usuario/REAME.md) |
 | [Planejamento de Contratação não-TIC](Validar_Planejamento_Contratacao_nao-TIC/) | Validar quesitos de DFD, ETP, Pesquisa de Preços e TR para contratações em geral. | 15 | [Orientações](Validar_Planejamento_Contratacao_nao-TIC/REAME.md) |
 | [Planejamento de Contratação TIC](Validar_Planejamento_Contratacao_TIC/) | Validar quesitos de DFD, ETP, Pesquisa de Preços e TR para contratações de TIC. | 25 | [Orientações](Validar_Planejamento_Contratacao_TIC/REAME.md) |
-| **Total** |  | **51** |  |
+| **Total** |  | **57** |  |
 
 Nas áreas de planejamento de contratação, os prompts estão organizados por documento e quesito:
 
@@ -50,7 +53,10 @@ Nas áreas de planejamento de contratação, os prompts estão organizados por d
 	- cite os documentos relacionados exigidos pelo prompt, como DFD, ETP, PP, TR ou DDO;
 	- em Linguagem Simples, informe o público-alvo e cole o texto ou as URLs solicitadas;
 	- em Localizar de Prazos, use somente o texto vigente da lei ou norma;
-	- em Jornalismo, informe as fontes e, quando aplicável, os exemplos de notícia indicados.
+	- em Jornalismo, informe as fontes e, quando aplicável, os exemplos de notícia indicados;
+	- em Otimizador de Prompts, cole o prompt ou a ideia original entre as tags `<texto_do_prompt_original>` e `</texto_do_prompt_original>`;
+	- em Recapitulação de Reuniões, escolha a versão adequada à fonte: arquivo com transcrição, transcrição colada ou URL da opção "Assistir no Navegador";
+	- em Scrum: Criador de Estórias de Usuário, escolha `sistemaAna` ou `sistemaSEI` conforme o sistema e cole a URL da opção "Assistir no Navegador" na posição indicada.
 4. Execute o prompt com os documentos e permissões adequados na ferramenta escolhida.
 5. Revise o resultado comparando-o com as fontes. A saída da IA é apoio ao trabalho e não substitui a análise, a validação normativa ou a responsabilidade do servidor.
 
@@ -94,6 +100,9 @@ Além de cadastrar os prompts deste acervo e os apresentados no tópico 8 do Man
 - A área de **Planejamento de Contratação TIC** possui prompts para DFD, ETP, PP e os 14 quesitos de TR.
 - A área de **Planejamento de Contratação não-TIC** possui prompts para DFD, ETP, PP e os quesitos 1 a 4 de TR.
 - Os quesitos 5 a 14 de TR não-TIC aparecem nas orientações da pasta como pendentes e ainda não possuem arquivos `.txt` neste repositório.
+- A área de **Otimizador de Prompts** possui um meta-prompt para criar ou revisar outros prompts conforme um modelo estruturado.
+- A área de **Recapitulação de Reuniões** possui três variantes, conforme a forma de fornecimento da transcrição ou da gravação.
+- A área de **Scrum: Criador de Estórias de Usuário** possui duas versões, configuradas para os sistemas Ana e SEI.
 
 ## Referências e materiais
 
