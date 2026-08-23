@@ -1,5 +1,7 @@
 # Localizar Prazos
 
+> Localizar prazos em documentos ou normas e organizá-los em tabela resumida.
+
 Sugestão de "Descrição do Prompt" para cadastro na Galeria de Prompts:
 
 ```text

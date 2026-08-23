@@ -1,5 +1,7 @@
 # Reescrita em Linguagem Simples
 
+> Reescrever conteúdos a partir de texto colado, protocolo SEI ou uma ou mais URLs Gov.br.
+
 Sugestão de "Descrição do Prompt" para cadastro na Galeria de Prompts:
 
 ```text

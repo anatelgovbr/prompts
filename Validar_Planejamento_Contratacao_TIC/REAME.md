@@ -1,6 +1,8 @@
 # Validar Planejamento de Contratações de TIC
 
-Atenção: Na utilização desses prompts, cuidado para não se manter em um único tópico executando em sequência cada prompt, pois as respostas aos prompts anteriores podem influenciar o formato e até o mérito da resposta da execução do próximo prompt. É recomendado abrir um tópico para a execução de cada prompt sobre contratação em análise. Na versão mais recente do SEI IA desative a "Memória do Tópico" para evitar qualquer ruído das interações anteriores no tópico.
+> Validar quesitos de DFD, ETP, Pesquisa de Preços e TR para contratações de TIC.
+
+**Atenção**: Na utilização desses prompts, cuidado para não se manter em um único tópico executando em sequência cada prompt, pois as respostas aos prompts anteriores podem influenciar o formato e até o mérito da resposta da execução do próximo prompt. É recomendado abrir um tópico para a execução de cada prompt sobre contratação em análise. Na versão mais recente do SEI IA desative a "Memória do Tópico" para evitar qualquer ruído das interações anteriores no tópico.
 
 Sugestão de "Descrição do Prompt" para cadastro na Galeria de Prompts **de cada prompt**:
 	

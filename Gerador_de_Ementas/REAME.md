@@ -1,5 +1,7 @@
 # Gerador de Ementa
 
+> Gerar ementas de decisões conforme o modelo padronizado pelo CNJ.
+
 Sugestão de "Descrição do Prompt" para cadastro na Galeria de Prompts:
 
 ```text

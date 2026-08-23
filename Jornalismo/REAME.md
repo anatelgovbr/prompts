@@ -1,5 +1,7 @@
 # Jornalismo
 
+> Criar notícias, revisar textos jornalísticos e preparar divulgação para WhatsApp.
+
 Sugestão de "Descrição do Prompt" para cadastro na Galeria de Prompts:
 
 ```text
