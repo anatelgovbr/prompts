@@ -1,19 +1,31 @@
 # Sobre o DECRETO Nº 12.002, DE 22 DE ABRIL DE 2024, que estabelece normas para elaboração, redação, alteração e consolidação de atos normativos.
 
-- Quero muito criar um prompt avançado de escrita, reescrita e validação de "Redação Normativa" que respeite as instruções de ELABORAÇÃO, REDAÇÃO, ARTICULAÇÃO E ALTERAÇÃO DE ATOS NORMATIVOS constante no mencionado Decreto.
-- O foco não é o conteúdo jurídico em seu mérito nem o título do instrumento/documento normativo; o foco deve ser em instruções objetivas de redação, formatação, ortografia, estilo, o que deve constar, o que não deve constar, como deve escrever, articular e alterar texto normativo. Ou seja, pare e pense em como o texto normativo deve ser redigido segundo o referido Decreto.
+- Quero criar um prompt avançado de escrita, reescrita e validação de "Redação Normativa" focado em elaboração/redação de norma nova que respeite as instruções de ELABORAÇÃO, REDAÇÃO, ARTICULAÇÃO E ALTERAÇÃO DE ATOS NORMATIVOS constante no mencionado Decreto.
+- O foco não é o conteúdo jurídico em seu mérito nem o título do instrumento/documento normativo; o foco deve ser em instruções objetivas de redação, formatação, ortografia, estilo, o que deve constar, o que não deve constar, **como deve** escrever, articular e alterar texto normativo novo, em elaboração, ou seja, sobre uma minuta de norma. Ou seja, pare e pense em como o novo texto normativo deve ser redigido seguindo o referido Decreto.
 - **Aparentemente**, tudo o que eu menciono que quero consta no CAPÍTULO II: DA ELABORAÇÃO, DA REDAÇÃO, DA ARTICULAÇÃO E DA ALTERAÇÃO DE ATOS NORMATIVOS
 
 # Assim, avalie bastante e sem pressa para cuidadosamente:
 
-- VERIFICAR se existe elementos do explico acima como o foco em redação normativa **fora do CAPÍTULO II** no mencionado Decreto. Apresentar a verificação na seção "## Lista de Regras de Escrita Normativa fora do Capítulo II do Decreto" e destacar qual artigo/dispositivo define regra de redação normativa fora CAPÍTULO II do mencionado Decreto.
-- Pensando que **vou utilizar depois** em um prompt avançado seguindo técnicas de engenharia de prompts adequadas, APENAS com o que sejam instruções objetivas de redação, formatação, ortografia, estilo, o que deve constar, o que não deve constar, como deve escrever, articular e alterar texto normativo, CRIAR uma lista com instruções de redação na seção "## Regras de Redação Normativa".
-  - Na lista criada, APENAS nos itens que estejam fora do CAPÍTULO II do mencionado Decreto conforme seção anterior que demandei acima, destacar expressamente no final do bullet o item com " (fora do Capítulo II do Decreto - \<dispositivo\_do\_decreto\_fora\_do\_capitulo\_II>)"; onde "\<dispositivo\_do\_decreto\_fora\_do\_capitulo\_II>" deve ser a identificação completa do dispositivo que define padrão de redação fora do Capítulo II do Decreto.
+- VERIFICAR se existem elementos do que explico acima com o foco em redação normativa **fora do CAPÍTULO II** no mencionado Decreto. Apresentar a verificação na seção "## Lista de Regras de Escrita Normativa fora do Capítulo II do Decreto" e destacar qual artigo/dispositivo define instrução de redação normativa fora do CAPÍTULO II do mencionado Decreto.
+- Pensando que **vou utilizar depois** em um prompt avançado seguindo técnicas de engenharia de prompts adequadas, APENAS com o que sejam instruções objetivas de redação, formatação, ortografia, estilo, o que deve constar, o que não deve constar, **como deve** escrever, articular e alterar texto normativo, CRIAR uma lista com instruções de redação na seção "## Regras de Redação Normativa Legislativa".
+	- Na lista criada, APENAS nos itens que estejam fora do CAPÍTULO II do mencionado Decreto conforme seção anterior que demandei acima, destacar expressamente no final do bullet o item com " (fora do Capítulo II do Decreto - \<dispositivo\_do\_decreto\_fora\_do\_capitulo\_II>)"; onde "\<dispositivo\_do\_decreto\_fora\_do\_capitulo\_II>" deve ser a identificação completa do dispositivo que define padrão de redação fora do Capítulo II do Decreto.
+	- Os demais itens da lista devem receber destaque expresso direto no final do bullet com " (\<dispositivo\_do\_decreto)"; onde "\<dispositivo\_do\_decreto" deve ser a identificação completa do dispositivo que define padrão de redação no Decreto.
+- Na seção "# Regras de Redação Normativa Legislativa", SE o dispositivo de redação normativa indicar que existe **condicionante** para aplicar a instrução, DEVE destacar a expressão "QUANDO" em maiúsculo para introduzir o condicional, escrever o condicional, a expressão "ENTÃO" em maiúsculo para introduzir a instrução e escrever a instrução. Tudo na mesma linha nesse caso de item de instrução com condicional, conforme essa fórmula: QUANDO + condicional + ENTÃO + instrução (\<dispositivo\_do\_decreto)
+	- Nesses casos de instrução com condicional, se porventura existir correção com instrução do mesmo dispositivo ou de outro dispositivo do Decreto, separe a instrução ordinária (sem condição) das instruções condicionais:
+		- Apresentar primeiro a instrução ordinária (sem condição); e
+		- Em subitens (identação) apresentar os itens com instrução condicional relacionada com o mesmo dispositivo ou outro dispositivo do Decreto.
+		- CUIDADO com itens que são isolados e autônomos e condicionais por natureza; esses devem ser item no nível normal dos demais e não subitem de algum outro item sem relação com a instrução de redação normativa em questão.
+	- Nessa correlação de instrução, **sobre o mesmo dispositivo ou outro dispositivo relacionado**, quero que primeiro apresente as instrução ordinária sem condicional e em seguida como subitens as instruções com condição de sua aplicação.
+		- Entenda que minha intenção é de melhorar a organização e hierarquia das instruções de redação.
+- POR FIM, atenção que o foco do meu futuro prompt avançado é sobre escrita, reescrita e validação de "Redação Normativa" da redação em si do texto da norma em elaboração, ou seja, em minuta.
+	- Assim, como a minuta de norma não foi editada ainda, NÃO DEVE CONSTAR na lista "## Regras de Redação Normativa Legislativa" elementos **extrínsecos** à sua elaboração/redação.
+		- Instruções de redação sobre numeração sequencial do futuro ato. Isso vai ser definido no futuro quando o ato for assinado de fato pela autoridade competente se for de fato editado/formalizado. Assim, o item "Usar numeração sequencial na identificação do ato. (art. 4º, § 1º, inciso III)" e seus subitens não deveriam constar na lista "## Regras de Redação Normativa Legislativa".
 
 # Não invente nada, não tenha pressa, isso é muito importante para mim. Faça pelo menos duas verificações se a execução está correta sobre o solicitado e minha intenção.
 
 # Segue entre as tags \<conteudo\_exclusivo\_do\_decreto\_a\_ser\_avaliado> e \</conteudo\_exclusivo\_do\_decreto\_a\_ser\_avaliado> a íntegra do conteúdo exclusivo do DECRETO Nº 12.002/2024 que deve ser considerado nessa demanda:
 
+# Verifique pelo menos três vezes se minhas orientações aqui foram respeitadas.
 
 
 <conteudo_exclusivo_do_decreto_a_ser_avaliado>
